@@ -1,2 +1,4 @@
 # Induction-program
-Gurkawal preet singh EE
+Gurkawalpreet singh EE
+#day1 
+30th of july
